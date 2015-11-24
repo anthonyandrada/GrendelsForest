@@ -69,6 +69,7 @@
     <background>background\bg_hiscore</background>
     <background>background\bg_swamp</background>
     <background>background\bg_space</background>
+    <background>background\Test</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">

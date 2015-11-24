@@ -73,7 +73,7 @@ highscore_add(name, score);
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>-100</room>
+            <room>lv_credit</room>
           </argument>
         </arguments>
       </action>
@@ -93,7 +93,7 @@ highscore_add(name, score);
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>bgm_maintheme</sound>
           </argument>
         </arguments>
       </action>
@@ -113,7 +113,7 @@ highscore_add(name, score);
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>bgm_maintheme</sound>
           </argument>
           <argument>
             <kind>3</kind>
